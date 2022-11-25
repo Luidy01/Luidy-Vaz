@@ -1,5 +1,19 @@
-body{
-    <h1> camelô </h1>
-    <p> temos varios produtos, não são originais, porem com um valor bem baixo </p>
-    <center> temos varios produtos, não são originais, porem com um valor bem baixo </center>
+Estilizar o título principal do seu site
+h1{
+color: black;
+font-family: ;
+background: ;
+}
+Estilizar o título principal do seu site
+h1{
+color: ;
+font-family: ;
+background: ;
+} 
+Estilizar os parágrafos 
+p{
+color:blue ;
+font-family: ;
+font-size: 30 ;
+background: ; 
 }
